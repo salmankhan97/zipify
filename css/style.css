@@ -1,0 +1,118 @@
+body{
+	font-family: 'Montserrat', sans-serif !important;
+}
+img{
+	max-width: 100%;
+}
+p{
+    color: #1d1d1d !important;
+    line-height: 1.5em;
+}
+.btnuser{
+    padding: 10px 80px !important;
+    color: #FFF !important;
+    border: 1px solid;
+    border-radius: 0px !important;
+    transition-duration: 0.3s;
+}
+.btnuser:hover{
+	color: transparent;
+}
+.navbar-brand{
+	width: 150px;
+}
+.navbar{
+	border-bottom: 1px solid black;
+}
+.navbar li a:hover{
+	color: #5DC168 !important;
+}
+.banner1{
+	margin-top: 50px;
+	padding: 50px 0px;
+}
+.banner1 .fs-1{
+    font-size: 60px !important;
+    font-weight: 500;
+}
+.banner1 li{
+	padding: 5px 0px;
+}
+.banner1 .btnuser{
+    background: #FF764B;
+    border-color: #FF764B;
+}
+.banner1 .btnuser:hover{
+	background-color: transparent;
+}
+.banner2{
+	padding: 50px 0px;
+	background-color: #FAFAFA;
+}
+.banner2 h1{
+	color: #3BB44A !important;
+}
+.banner2 .btnuser{
+    background: #3BB44A;
+    border-color: #3BB44A;
+}
+.banner2 .btnuser:hover{
+	background-color: transparent;
+}
+.banner3{
+	padding: 50px 0px;
+}
+.banner3 .box1{
+    border: 1px solid;
+    padding: 80px;
+    margin-bottom: 20px;
+}
+.banner3 .box1{
+    background: #00000005;
+}
+.banner3 .btnuser{
+    background: #3BB44A;
+    border-color: #3BB44A;
+}
+.banner3 .btnuser:hover{
+	background-color: transparent;
+	color: #3BB44A !important;
+}
+footer{
+	background-color: #F2F1F1;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	margin-top: 50px;
+}
+footer ul{
+	list-style-type: none;
+}
+footer li{
+	padding: 15px 0px;
+}
+footer li a{
+	opacity: 0.9;
+	text-decoration: none;
+	color: black;
+}
+footer li a:hover{
+	color: #3BB44A !important;
+}
+
+/*products css*/
+
+.products-banner1{
+	padding: 50px 0px;
+	background-color: #F2F2F2;
+	margin-top: 50px;
+}
+.products-banner1 h1{
+	color: #3BB44A !important;
+}
+.products-banner1 h1{
+	font-size: 48px !important;
+	font-weight: 700;
+}
+.products-banner1 p{
+	    font-size: 20px!important;
+}
