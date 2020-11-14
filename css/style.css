@@ -116,3 +116,44 @@ footer li a:hover{
 .products-banner1 p{
 	    font-size: 20px!important;
 }
+
+
+
+/*about css*/
+
+.about-banner1{
+	padding: 100px 0px;
+	background-color: #F2F2F2;
+	margin-top: 50px;
+}
+.about-banner1 h2{
+	font-weight: 600 !important;
+}
+.about-banner1 p{
+	    font-size: 20px!important;
+}
+.about-banner1 img{
+		height: 600px;
+}
+
+
+.about-banner2{
+	padding-top: 50px;
+}
+.about-banner2 h1{
+	font-weight: 600 !important;
+}
+.about-banner2 p{
+	    font-size: 20px!important;
+}
+.about-banner2 img{
+		height: 600px;
+		object-fit: cover;
+}
+.about-banner2 a{
+	color:#48B559 !important;
+	text-decoration: none;
+}
+.about-banner2 a:hover{
+	color: black !important;
+}
